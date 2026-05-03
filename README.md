@@ -1,6 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I%27m+Kamal+Kumar+Sharma;Full+Stack+Developer+%2B+AI;React+%7C+Next.js+%7C+Node.js+%7C+CRM+Systems" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:22d3ee&height=230&section=header&text=Kamal%20Kumar%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Full%20Stack%20Developer%20%2B%20AI%20%E2%80%94%20React%2C%20Next.js%2C%20Node.js%2C%20CRM&descSize=16&descAlignY=52&descAlign=50" width="100%" alt="Header banner" />
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&repeat=true&width=720&height=50&lines=Full+Stack+%2B+AI+%E2%80%A2+MERN+%E2%80%A2+TypeScript;CRM+Dashboards+%E2%80%A2+Agents+%E2%80%A2+Vercel+%2B+Render;Open+to+collaboration+%E2%80%A2+Noida%2C+India" alt="Typing lines" />
+
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-029.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamal-kumar-sharma-680b612227)
@@ -8,7 +16,9 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kamalsharma_29/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ks7430246@gmail.com)
 
-![](https://komarev.com/ghpvc/?username=Kamalsharma29&label=Profile%20views&color=22d3ee&style=flat)
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Kamalsharma29&style=for-the-badge&color=22d3ee&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
@@ -112,6 +122,22 @@ More public work: **[57 repositories](https://github.com/Kamalsharma29?tab=repos
 
 ---
 
+## Dev metrics
+
+<div align="center">
+
+<img src="./stats/habits.svg" width="100%" alt="Coding habits and calendar" />
+
+<img src="./stats/achievements.svg" width="100%" alt="GitHub achievements" />
+
+<img src="./stats/github-stats.svg" width="100%" alt="GitHub stats and languages" />
+
+</div>
+
+> **Optional:** add repository secret **`GH_TOKEN`** (classic PAT with `repo` scope), then run **Actions → Metrics** to replace the placeholder SVGs in `stats/` with live charts (same style of pipeline as dynamic profile repos).
+
+---
+
 ## Latest blog posts
 
 > This list is maintained automatically from **my** RSS feeds. Set repository variable **`BLOG_RSS_FEEDS`** (comma-separated feed URLs), then run **Actions → Latest blog post workflow**.
@@ -132,19 +158,31 @@ More public work: **[57 repositories](https://github.com/Kamalsharma29?tab=repos
 
 ## Contribution activity graph
 
-![Contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kamalsharma29&bg_color=0d1117&color=22d3ee&line=30363d&point=22d3ee&area=true&area_color=1f2937&hide_border=true)
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kamalsharma29&bg_color=0d1117&color=22d3ee&line=30363d&point=22d3ee&area=true&area_color=1f2937&hide_border=true" width="100%" alt="Contribution activity graph" />
+
+</div>
 
 ---
 
 ## Contribution snake
 
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kamalsharma29/-Kamalsharma29/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kamalsharma29/-Kamalsharma29/output/github-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Kamalsharma29/-Kamalsharma29/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Kamalsharma29/-Kamalsharma29/output/github-snake.svg" width="100%" />
 </picture>
 
-> After you push this repo, open **Actions → Generate contribution snake → Run workflow** once. The `output` branch will be created with the SVGs above.
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:22d3ee&height=120&section=footer" width="100%" alt="Footer wave" />
+
+</div>
+
+> Run **Actions → Generate contribution snake** once so the `output` branch exists for the snake images above.
 
 ---
 

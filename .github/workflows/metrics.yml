@@ -1,0 +1,75 @@
+# Writes stats/*.svg into this repo (habits, achievements, combined GitHub stats).
+# Requires a classic PAT with repo scope: Settings → Secrets → GH_TOKEN
+
+name: Metrics
+
+on:
+  schedule:
+    - cron: "40 22 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          filename: stats/github-stats.svg
+          user: Kamalsharma29
+          template: classic
+          base: header, activity, community, repositories
+          plugin_languages: yes
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          config_display: large
+          config_timezone: Asia/Kolkata
+          config_output: svg
+
+  achievements:
+    needs: stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          filename: stats/achievements.svg
+          user: Kamalsharma29
+          template: classic
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_threshold: C
+          plugin_achievements_secrets: yes
+          config_display: large
+          config_timezone: Asia/Kolkata
+          config_output: svg
+
+  habits:
+    needs: achievements
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          filename: stats/habits.svg
+          user: Kamalsharma29
+          template: classic
+          base: ""
+          plugin_habits: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
+          config_display: large
+          config_timezone: Asia/Kolkata
+          config_output: svg
