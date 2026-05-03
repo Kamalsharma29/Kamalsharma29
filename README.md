@@ -10,15 +10,15 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=c4b5fd)](https://my-portfolio-029.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0c4a6e?style=for-the-badge&logo=linkedin&logoColor=7dd3fc)](https://www.linkedin.com/in/kamal-kumar-sharma-680b612227)
-[![X](https://img.shields.io/badge/X-1e1b4b?style=for-the-badge&logo=x&logoColor=e9d5ff)](https://twitter.com/KamalSh37980006)
-[![LeetCode](https://img.shields.io/badge/LeetCode-422006?style=for-the-badge&logo=leetcode&logoColor=fbbf24)](https://leetcode.com/kamalsharma_29/)
-[![Email](https://img.shields.io/badge/Email-7f1d1d?style=for-the-badge&logo=gmail&logoColor=fecaca)](mailto:ks7430246@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1535?style=for-the-badge&logo=vercel&logoColor=5eead4)](https://my-portfolio-029.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1535?style=for-the-badge&logo=linkedin&logoColor=c4b5fd)](https://www.linkedin.com/in/kamal-kumar-sharma-680b612227)
+[![X](https://img.shields.io/badge/X-1a1535?style=for-the-badge&logo=x&logoColor=c4b5fd)](https://twitter.com/KamalSh37980006)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1a1535?style=for-the-badge&logo=leetcode&logoColor=5eead4)](https://leetcode.com/kamalsharma_29/)
+[![Email](https://img.shields.io/badge/Email-1a1535?style=for-the-badge&logo=gmail&logoColor=c4b5fd)](mailto:ks7430246@gmail.com)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Kamalsharma29&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Kamalsharma29&style=for-the-badge&color=312e81&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
@@ -195,15 +195,15 @@ If you are hiring or building something ambitious — **let's talk.**
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=c4b5fd)](https://my-portfolio-029.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0c4a6e?style=for-the-badge&logo=linkedin&logoColor=7dd3fc)](https://www.linkedin.com/in/kamal-kumar-sharma-680b612227)
-[![GitHub](https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=5eead4)](https://github.com/Kamalsharma29)
-[![Email](https://img.shields.io/badge/Email-7f1d1d?style=for-the-badge&logo=gmail&logoColor=fecaca)](mailto:ks7430246@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-422006?style=for-the-badge&logo=leetcode&logoColor=fbbf24)](https://leetcode.com/kamalsharma_29/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1535?style=for-the-badge&logo=vercel&logoColor=5eead4)](https://my-portfolio-029.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1535?style=for-the-badge&logo=linkedin&logoColor=c4b5fd)](https://www.linkedin.com/in/kamal-kumar-sharma-680b612227)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1535?style=for-the-badge&logo=github&logoColor=5eead4)](https://github.com/Kamalsharma29)
+[![Email](https://img.shields.io/badge/Email-1a1535?style=for-the-badge&logo=gmail&logoColor=c4b5fd)](mailto:ks7430246@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1a1535?style=for-the-badge&logo=leetcode&logoColor=c4b5fd)](https://leetcode.com/kamalsharma_29/)
 
 <br/>
 
-[![X](https://img.shields.io/badge/Follow-1e1b4b?style=for-the-badge&logo=x&logoColor=e9d5ff)](https://twitter.com/KamalSh37980006)
+[![X](https://img.shields.io/badge/Follow-1a1535?style=for-the-badge&logo=x&logoColor=5eead4)](https://twitter.com/KamalSh37980006)
 
 <br/>
 
