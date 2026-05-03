@@ -1,24 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:22d3ee&height=230&section=header&text=Kamal%20Kumar%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Full%20Stack%20Developer%20%2B%20AI%20%E2%80%94%20React%2C%20Next.js%2C%20Node.js%2C%20CRM&descSize=16&descAlignY=52&descAlign=50" width="100%" alt="Header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b14,50:1e1b4b,100:6d28d9&height=230&section=header&text=Kamal%20Kumar%20Sharma&fontSize=42&fontColor=f8fafc&animation=fadeIn&fontAlignY=30&desc=Full%20Stack%20Developer%20%2B%20AI%20%E2%80%94%20React%2C%20Next.js%2C%20Node.js%2C%20CRM&descSize=16&descAlignY=52&descAlign=50&descColor=c4b5fd" width="100%" alt="Header banner" />
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&repeat=true&width=720&height=50&lines=Full+Stack+%2B+AI+%E2%80%A2+MERN+%E2%80%A2+TypeScript;CRM+Dashboards+%E2%80%A2+Agents+%E2%80%A2+Vercel+%2B+Render;Open+to+collaboration+%E2%80%A2+Noida%2C+India" alt="Typing lines" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5EEAD4&center=true&vCenter=true&repeat=true&width=720&height=50&lines=Full+Stack+%2B+AI+%E2%80%A2+MERN+%E2%80%A2+TypeScript;CRM+Dashboards+%E2%80%A2+Agents+%E2%80%A2+Vercel+%2B+Render;Open+to+collaboration+%E2%80%A2+Noida%2C+India" alt="Typing lines" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-029.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamal-kumar-sharma-680b612227)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/KamalSh37980006)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kamalsharma_29/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ks7430246@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=c4b5fd)](https://my-portfolio-029.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0c4a6e?style=for-the-badge&logo=linkedin&logoColor=7dd3fc)](https://www.linkedin.com/in/kamal-kumar-sharma-680b612227)
+[![X](https://img.shields.io/badge/X-1e1b4b?style=for-the-badge&logo=x&logoColor=e9d5ff)](https://twitter.com/KamalSh37980006)
+[![LeetCode](https://img.shields.io/badge/LeetCode-422006?style=for-the-badge&logo=leetcode&logoColor=fbbf24)](https://leetcode.com/kamalsharma_29/)
+[![Email](https://img.shields.io/badge/Email-7f1d1d?style=for-the-badge&logo=gmail&logoColor=fecaca)](mailto:ks7430246@gmail.com)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Kamalsharma29&style=for-the-badge&color=22d3ee&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Kamalsharma29&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
@@ -107,16 +107,16 @@ More public work: **[57 repositories](https://github.com/Kamalsharma29?tab=repos
 
 ## GitHub analytics
 
-*Cards use a **dark + cyan** palette aligned with [my portfolio](https://my-portfolio-029.vercel.app/) accent (`#22D3EE`) and dark backgrounds (`#0D1117`).*
+*Cards use the **Aurora Night** theme: deep indigo (`#070b14`), lavender titles (`#c4b5fd`), teal icons (`#5eead4`), and soft slate body text.*
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kamalsharma29&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&bg_color=0D1117" alt="Kamalsharma29's GitHub stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamalsharma29&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=C9D1D9&bg_color=0D1117" alt="Top languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kamalsharma29&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&title_color=c4b5fd&icon_color=5eead4&text_color=e2e8f0&bg_color=070b14" alt="Kamalsharma29's GitHub stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamalsharma29&layout=compact&langs_count=8&hide_border=true&title_color=c4b5fd&text_color=e2e8f0&bg_color=070b14" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=Kamalsharma29&hide_border=true&background=0D1117&border=30363D&stroke=30363D&ring=22D3EE&fire=F97316&currStreakLabel=22D3EE&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=Kamalsharma29&hide_border=true&background=070b14&border=2d3548&stroke=2d3548&ring=a78bfa&fire=f472b6&currStreakLabel=c4b5fd&sideLabels=94a3b8&currStreakNum=f8fafc&sideNums=e2e8f0&dates=64748b" alt="GitHub streak" />
 
-![Profile trophies](https://github-profile-trophy.vercel.app/?username=Kamalsharma29&theme=tokyonight&column=7&margin-w=10&no-bg=true)
+![Profile trophies](https://github-profile-trophy.vercel.app/?username=Kamalsharma29&theme=dracula&column=7&margin-w=10&no-bg=true)
 
 </div>
 
@@ -160,7 +160,7 @@ More public work: **[57 repositories](https://github.com/Kamalsharma29?tab=repos
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kamalsharma29&bg_color=0d1117&color=22d3ee&line=30363d&point=22d3ee&area=true&area_color=1f2937&hide_border=true" width="100%" alt="Contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kamalsharma29&bg_color=070b14&color=c4b5fd&line=4c1d95&point=5eead4&area=true&area_color=1e1035&hide_border=true" width="100%" alt="Contribution activity graph" />
 
 </div>
 
@@ -178,7 +178,7 @@ More public work: **[57 repositories](https://github.com/Kamalsharma29?tab=repos
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:22d3ee&height=120&section=footer" width="100%" alt="Footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b14,50:312e81,100:6d28d9&height=120&section=footer" width="100%" alt="Footer wave" />
 
 </div>
 
