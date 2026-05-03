@@ -1,12 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="120" viewBox="0 0 720 120">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#070b14"/>
-      <stop offset="55%" stop-color="#151d33"/>
-      <stop offset="100%" stop-color="#1e1b4b"/>
+      <stop offset="0%" stop-color="#1f2937"/>
+      <stop offset="100%" stop-color="#334155"/>
     </linearGradient>
   </defs>
-  <rect width="100%" height="100%" fill="url(#bg)" rx="12" stroke="#2d3548" stroke-width="1"/>
-  <text x="360" y="52" fill="#c4b5fd" font-family="Segoe UI,system-ui,sans-serif" font-size="20" font-weight="600" text-anchor="middle">GitHub stats SVG</text>
-  <text x="360" y="84" fill="#94a3b8" font-family="Segoe UI,system-ui,sans-serif" font-size="14" text-anchor="middle">Run Actions &gt; Metrics after adding secret GH_TOKEN</text>
+  <rect width="100%" height="100%" fill="url(#bg)" rx="12" stroke="#475569" stroke-width="2"/>
+  <text x="360" y="52" fill="#38bdf8" font-family="Segoe UI,system-ui,sans-serif" font-size="20" font-weight="600" text-anchor="middle">GitHub stats SVG</text>
+  <text x="360" y="84" fill="#e2e8f0" font-family="Segoe UI,system-ui,sans-serif" font-size="14" text-anchor="middle">Run Actions &gt; Metrics after adding secret GH_TOKEN</text>
 </svg>
