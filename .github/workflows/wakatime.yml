@@ -1,0 +1,30 @@
+# Updates the WakaTime section in README (needs WakaTime account + API key).
+# Setup: https://wakatime.com/settings/api-key → copy key
+#        GitHub repo → Settings → Secrets and variables → Actions → New repository secret
+#          Name:  WAKATIME_API_KEY
+#          Value: (your key)
+# Then run: Actions → WakaTime readme stats → Run workflow
+# Optional: uncomment schedule after the secret is set.
+# on:
+#   schedule:
+#     - cron: "0 5 * * *"
+
+name: WakaTime readme stats
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Update README with WakaTime stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          COMMIT_MESSAGE: "docs: update WakaTime stats in README"

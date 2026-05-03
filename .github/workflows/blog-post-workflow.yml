@@ -1,0 +1,34 @@
+# Refreshes the "Latest blog posts" section from your RSS feed variable.
+# Setup: Settings → Secrets and variables → Actions → Variables → New repository variable
+#   Name:  BLOG_RSS_FEEDS
+#   Value: comma-separated RSS URLs, e.g.
+#     https://dev.to/feed/yourusername,https://medium.com/feed/@yourhandle
+# Leave unset to skip this job (no error).
+
+name: Latest blog post workflow
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    if: ${{ vars.BLOG_RSS_FEEDS != '' }}
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Merge RSS posts into README
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "BLOG-POST-LIST"
+          feed_list: ${{ vars.BLOG_RSS_FEEDS }}
+          max_post_count: 6
+          commit_message: "docs: update latest blog posts in README"
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
