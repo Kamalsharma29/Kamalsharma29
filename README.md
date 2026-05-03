@@ -178,19 +178,42 @@ More public work: **[57 repositories](https://github.com/Kamalsharma29?tab=repos
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b14,50:312e81,100:6d28d9&height=120&section=footer" width="100%" alt="Footer wave" />
+<sub>If the image is missing, run <strong>Actions → Generate contribution snake</strong> once so the <code>output</code> branch is created.</sub>
 
 </div>
-
-> Run **Actions → Generate contribution snake** once so the `output` branch exists for the snake images above.
 
 ---
 
 ## Let's connect
 
-- **Portfolio:** [my-portfolio-029.vercel.app](https://my-portfolio-029.vercel.app/)
-- **GitHub:** [github.com/Kamalsharma29](https://github.com/Kamalsharma29)
-- **LinkedIn:** [Kamal Kumar Sharma on LinkedIn](https://www.linkedin.com/in/kamal-kumar-sharma-680b612227)
+<div align="center">
+
+<br/>
+
+I'm open to **full-stack** and **AI** engineering roles, **CRM / dashboard** work, **contract development**, and **collaboration** on shipped products.  
+If you are hiring or building something ambitious — **let's talk.**
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=c4b5fd)](https://my-portfolio-029.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0c4a6e?style=for-the-badge&logo=linkedin&logoColor=7dd3fc)](https://www.linkedin.com/in/kamal-kumar-sharma-680b612227)
+[![GitHub](https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=5eead4)](https://github.com/Kamalsharma29)
+[![Email](https://img.shields.io/badge/Email-7f1d1d?style=for-the-badge&logo=gmail&logoColor=fecaca)](mailto:ks7430246@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-422006?style=for-the-badge&logo=leetcode&logoColor=fbbf24)](https://leetcode.com/kamalsharma_29/)
+
+<br/>
+
+[![X](https://img.shields.io/badge/Follow-1e1b4b?style=for-the-badge&logo=x&logoColor=e9d5ff)](https://twitter.com/KamalSh37980006)
+
+<br/>
+
+<sub>Open to <strong>contract-based work</strong> · <strong>remote / hybrid</strong> · based in <strong>Noida, India</strong></sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b14,50:312e81,100:6d28d9&height=120&section=footer" width="100%" alt="Footer wave" />
+
+</div>
 
 ---
 
