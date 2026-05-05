@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:334155,100:0ea5e9&height=230&section=header&text=Kamal%20Kumar%20Sharma&fontSize=42&fontColor=f8fafc&animation=fadeIn&fontAlignY=30&desc=Full%20Stack%20Developer%20%2B%20AI%20%E2%80%94%20React%2C%20Next.js%2C%20Node.js%2C%20CRM&descSize=16&descAlignY=52&descAlign=50&descColor=7dd3fc" width="100%" alt="Header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0284c7&height=230&section=header&text=Kamal%20Kumar%20Sharma&fontSize=42&fontColor=f8fafc&animation=fadeIn&fontAlignY=30&desc=Full%20Stack%20Developer%20%2B%20AI%20%E2%80%94%20React%2C%20Next.js%2C%20Node.js%2C%20CRM&descSize=16&descAlignY=52&descAlign=50&descColor=bae6fd" width="100%" alt="Header banner" />
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding" />
 
@@ -107,7 +107,7 @@ More public work: **[57 repositories](https://github.com/Kamalsharma29?tab=repos
 
 ## GitHub analytics
 
-*High-contrast **slate + sky** cards (`#1f2937` surface, near-white text) so stats stay readable on GitHub dark mode.*
+*High-contrast **Ocean Blue** theme (`#1f2937` surface, bright cyan accents) so all cards stay readable on GitHub dark mode.*
 
 <div align="center">
 
@@ -211,7 +211,7 @@ If you are hiring or building something ambitious — **let's talk.**
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:334155,100:0ea5e9&height=120&section=footer" width="100%" alt="Footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0284c7&height=120&section=footer" width="100%" alt="Footer wave" />
 
 </div>
 
@@ -222,6 +222,7 @@ If you are hiring or building something ambitious — **let's talk.**
 <sub>Profile README — <strong>Kamal Kumar Sharma</strong> (<strong>Kamalsharma29</strong>) · content, projects, and metrics are mine.</sub>
 
 </div>
+
 
 
 
