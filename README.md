@@ -111,8 +111,8 @@ More public work: **[57 repositories](https://github.com/Kamalsharma29?tab=repos
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kamalsharma29&show_icons=true&include_all_commits=true&count_private=false&hide_border=false&border_color=475569&border_radius=8&title_color=38bdf8&icon_color=4ade80&text_color=f8fafc&bg_color=1f2937" alt="Kamalsharma29's GitHub stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamalsharma29&layout=compact&langs_count=8&hide_border=false&border_color=475569&border_radius=8&title_color=38bdf8&text_color=f8fafc&bg_color=1f2937" alt="Top languages" />
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kamalsharma29&show_icons=true&include_all_commits=true&count_private=false&hide_border=false&border_color=475569&border_radius=8&title_color=38bdf8&icon_color=4ade80&text_color=f8fafc&bg_color=1f2937" alt="Kamalsharma29's GitHub stats" />
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Kamalsharma29&layout=compact&langs_count=8&hide_border=false&border_color=475569&border_radius=8&title_color=38bdf8&text_color=f8fafc&bg_color=1f2937" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=Kamalsharma29&hide_border=false&border=475569&background=1f2937&stroke=475569&ring=38bdf8&fire=fb923c&currStreakLabel=f8fafc&sideLabels=cbd5e1&currStreakNum=f8fafc&sideNums=e2e8f0&dates=94a3b8" alt="GitHub streak" />
 
@@ -222,4 +222,5 @@ If you are hiring or building something ambitious — **let's talk.**
 <sub>Profile README — <strong>Kamal Kumar Sharma</strong> (<strong>Kamalsharma29</strong>) · content, projects, and metrics are mine.</sub>
 
 </div>
+
 
