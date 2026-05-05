@@ -171,9 +171,9 @@ More public work: **[57 repositories](https://github.com/Kamalsharma29?tab=repos
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kamalsharma29/Kamalsharma29/output/github-snake-dark.svg?v=20260505-2350" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kamalsharma29/Kamalsharma29/output/github-snake.svg?v=20260505-2350" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Kamalsharma29/Kamalsharma29/output/github-snake.svg?v=20260505-2350" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kamalsharma29/Kamalsharma29/output/github-snake-dark.svg?v=20260505-2355" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kamalsharma29/Kamalsharma29/output/github-snake.svg?v=20260505-2355" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Kamalsharma29/Kamalsharma29/output/github-snake.svg?v=20260505-2355" width="100%" />
 </picture>
 
 <br/>
@@ -222,6 +222,7 @@ If you are hiring or building something ambitious — **let's talk.**
 <sub>Profile README — <strong>Kamal Kumar Sharma</strong> (<strong>Kamalsharma29</strong>) · content, projects, and metrics are mine.</sub>
 
 </div>
+
 
 
 
