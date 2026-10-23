@@ -18,7 +18,7 @@
 
 <br/>
 
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FKamalsharma29&label=PROFILE%20VIEWS&labelColor=%23134e4a&countColor=%23059669&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Kamalsharma29&style=for-the-badge&color=059669&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
