@@ -1,24 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0284c7&height=230&section=header&text=Kamal%20Kumar%20Sharma&fontSize=42&fontColor=f8fafc&animation=fadeIn&fontAlignY=30&desc=Full%20Stack%20Developer%20%2B%20AI%20%E2%80%94%20React%2C%20Next.js%2C%20Node.js%2C%20CRM&descSize=16&descAlignY=52&descAlign=50&descColor=bae6fd" width="100%" alt="Header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c1210,50:134e4a,100:10b981&height=230&section=header&text=Kamal%20Kumar%20Sharma&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20at%20E4%20%C2%B7%20Deployed%20at%20PNB&descSize=18&descAlignY=56&descAlign=50&descColor=fbbf24" width="100%" alt="Kamal Kumar Sharma" />
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=67E8F9&center=true&vCenter=true&repeat=true&width=720&height=50&lines=Full+Stack+%2B+AI+%E2%80%A2+MERN+%E2%80%A2+TypeScript;CRM+Dashboards+%E2%80%A2+Agents+%E2%80%A2+Vercel+%2B+Render;Open+to+collaboration+%E2%80%A2+Noida%2C+India" alt="Typing lines" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding illustration" />
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-374151?style=for-the-badge&logo=vercel&logoColor=67e8f9)](https://my-portfolio-029.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-374151?style=for-the-badge&logo=linkedin&logoColor=a5f3fc)](https://www.linkedin.com/in/kamal-kumar-sharma-680b612227)
-[![X](https://img.shields.io/badge/X-374151?style=for-the-badge&logo=x&logoColor=e0f2fe)](https://twitter.com/KamalSh37980006)
-[![LeetCode](https://img.shields.io/badge/LeetCode-374151?style=for-the-badge&logo=leetcode&logoColor=fde047)](https://leetcode.com/kamalsharma_29/)
-[![Email](https://img.shields.io/badge/Email-374151?style=for-the-badge&logo=gmail&logoColor=fca5a5)](mailto:ks7430246@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=34D399&center=true&vCenter=true&repeat=true&width=760&height=45&lines=Full-stack+%2B+AI+%E2%80%A2+React%2C+Next.js%2C+Node.js;CRM+dashboards+%E2%80%A2+Backend+support+%E2%80%A2+Noida;B.Tech+in+Computer+Science+and+Engineering" alt="Kamal Kumar Sharma role" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Kamalsharma29&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile views" />
+[![Portfolio](https://img.shields.io/badge/my--portfolio--029.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-029.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamalsharma29/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kamalsharma29)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kamalsharma_29/)
+[![Email](https://img.shields.io/badge/ks7430246@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ks7430246@gmail.com)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Kamalsharma29&style=for-the-badge&color=059669&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
@@ -26,205 +26,232 @@
 
 ## `> whoami`
 
+<details open>
+<summary><code>&gt; whoami</code></summary>
+
 ```python
 class KamalKumarSharma:
-    role            = "Software Engineer (Application Support) @ E4 Software Solutions Pvt. Ltd."
-    focus           = "Full Stack Developer + AI | React, Next.js, Node.js | CRM Systems"
-    education       = "B.TECH (CSE) — in progress"
-    location        = "Noida, India"
-    ask_me_about    = ["Java", "DSA", "Web & AI projects"]
-    reach           = "ks7430246@gmail.com"
-
-    github = {
-        "public_repositories": 57,
-        "profile": "https://github.com/Kamalsharma29",
-    }
+    role        = "Software Engineer (Application Support) @ E4 Software Services Pvt. Ltd."
+    deployment  = "Punjab National Bank (PNB)"
+    focus       = ["Full-stack development", "AI applications", "CRM & dashboards", "Backend support"]
+    stack       = ["TypeScript", "JavaScript", "React", "Next.js", "Node.js", "Python"]
+    education   = "B.Tech in Computer Science and Engineering"
+    location    = "Noida, India"
+    portfolio   = "https://my-portfolio-029.vercel.app/"
+    github      = "https://github.com/Kamalsharma29"
+    linkedin    = "https://www.linkedin.com/in/kamalsharma29/"
+    reach       = "ks7430246@gmail.com"
 ```
 
-| What I do | Right now |
-| --- | --- |
-| Build **full-stack** apps with **React**, **Next.js**, and **Node.js** | Application support & shipping internal tools at **E4 Software Solutions** |
-| Explore **AI agents**, dashboards, and **CRM-style** products | Learning **B.TECH (CSE)** while leveling up on **Java** & **DSA** |
-| Ship **Vercel** demos and **Render**-hosted services | Open to collaboration on **web**, **AI**, and **automation** ideas |
+</details>
 
 ---
 
-## What I'm building
+## About Me
 
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### What I do
+
+- Build **full-stack** products with **React**, **Next.js**, and **Node.js**
+- Ship **CRM dashboards** with lead management, analytics, and role-based access
+- Add **AI** to search, email, and trip-planning tools
+- Write **Python** agents for URL safety checks
+
+</td>
+<td width="50%" valign="top">
+
+### Current role
+
+| | |
+| --- | --- |
+| **Title** | Software Engineer (Application Support) |
+| **Company** | E4 Software Services Pvt. Ltd. |
+| **Deployed at** | Punjab National Bank (PNB) |
+| **Education** | B.Tech, Computer Science and Engineering |
+| **Location** | Noida, India |
+
+</td>
+</tr>
+</table>
+
+---
+
+## What I'm Building Now
+
+<div align="center">
+
+```text
 ┌─────────────────────────────────────────────────────────────────┐
-│  CRM & dashboards (TypeScript / Next.js)                        │
-│  AI agents & assistants (Python / JavaScript)                   │
-│  Product UI — landing pages, galleries, and client sites        │
-│  DSA practice & Java fundamentals                               │
+│                                                                 │
+│   Verixa AI         search assistant         Next.js · Gemini   │
+│   CRM dashboard     leads, analytics, email  Next.js · MongoDB  │
+│   Travel agent      weather, flights, hotels Node.js · OpenAI   │
+│   Security Agent    URL safety checks        Python · uAgents   │
+│                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
----
-
-## Featured projects
-
-*Projects, links, and metrics below reflect **my** public GitHub activity and my own configuration.*
-
-| Project | Stack / link |
-| --- | --- |
-| **[Verixa-Ai](https://github.com/Kamalsharma29/Verixa-Ai)** | TypeScript · [Live demo](https://verixa-ai.vercel.app/) |
-| **[AI-Powered-CRM-Dashboard](https://github.com/Kamalsharma29/AI-Powered-CRM-Dashboard)** | TypeScript · [Live demo](https://crm-dashboard-topaz.vercel.app/) |
-| **[weather-travel-ai-agent](https://github.com/Kamalsharma29/weather-travel-ai-agent)** | JavaScript · [weather-travel-ai-agent.onrender.com](https://weather-travel-ai-agent.onrender.com/) |
-| **[Security-Agent](https://github.com/Kamalsharma29/Security-Agent)** | Python |
-| **[ems-task-maneger-](https://github.com/Kamalsharma29/ems-task-maneger-)** | JavaScript · [Live demo](https://ems-task-maneger-smoky.vercel.app) |
-| **[obyz-agency](https://github.com/Kamalsharma29/obyz-agency)** | CSS · [Live demo](https://obyz-agency.vercel.app) |
-
-More public work: **[57 repositories](https://github.com/Kamalsharma29?tab=repositories)** on GitHub.
+</div>
 
 ---
 
-## Tech stack
+## Featured Projects
 
-### Languages & core
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Kamalsharma29/Verixa-Ai"><b>Verixa AI</b></a>
+
+Next.js search assistant that combines web search results with Gemini-powered analysis, source citations, and a conversational interface.
+
+[Repository](https://github.com/Kamalsharma29/Verixa-Ai) · [Live demo](https://verixa-ai.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Kamalsharma29/AI-Powered-CRM-Dashboard"><b>AI-Powered CRM Dashboard</b></a>
+
+Next.js 15 CRM with lead management, analytics, role-based access through NextAuth, MongoDB, and Gemini email generation.
+
+[Repository](https://github.com/Kamalsharma29/AI-Powered-CRM-Dashboard) · [Live demo](https://crm-dashboard-topaz.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Kamalsharma29/weather-travel-ai-agent"><b>Weather + Travel AI Agent</b></a>
+
+Node.js and Express trip planner that combines weather, flight, and hotel search with OpenAI itineraries.
+
+[Repository](https://github.com/Kamalsharma29/weather-travel-ai-agent) · [Live demo](https://weather-travel-ai-agent.onrender.com/)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Kamalsharma29/Security-Agent"><b>Security Agent</b></a>
+
+Python uAgents agent that checks URL safety with the Google Safe Browsing API and connects to Agentverse.
+
+[Repository](https://github.com/Kamalsharma29/Security-Agent)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### Frontend & mobile
+### AI & Agent Technologies
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![uAgents](https://img.shields.io/badge/uAgents-1d4ed8?style=for-the-badge&logoColor=white)
+
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-### Data, cloud & tools
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### DevOps, Cloud & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## GitHub analytics
-
-*High-contrast **Ocean Blue** theme (`#1f2937` surface, bright cyan accents) so all cards stay readable on GitHub dark mode.*
-
-<div align="center">
-
-<img src="./stats/github-stats.svg" width="100%" alt="GitHub stats" />
-<img src="./stats/habits.svg" width="100%" alt="Top languages and coding habits" />
-
-<img src="https://streak-stats.demolab.com?user=Kamalsharma29&hide_border=false&border=475569&background=1f2937&stroke=475569&ring=38bdf8&fire=fb923c&currStreakLabel=f8fafc&sideLabels=cbd5e1&currStreakNum=f8fafc&sideNums=e2e8f0&dates=94a3b8" alt="GitHub streak" />
-
-![Profile trophies](https://github-profile-trophy.vercel.app/?username=Kamalsharma29&theme=onedark&column=7&margin-w=10&no-bg=true)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 </div>
 
 ---
 
-## Dev metrics
+## GitHub Analytics
 
 <div align="center">
 
-<img src="./stats/habits.svg" width="100%" alt="Coding habits and calendar" />
-
-<img src="./stats/achievements.svg" width="100%" alt="GitHub achievements" />
-
-<img src="./stats/github-stats.svg" width="100%" alt="GitHub stats and languages" />
-
-</div>
-
-> **Optional:** add repository secret **`GH_TOKEN`** (classic PAT with `repo` scope), then run **Actions → Metrics** to replace the placeholder SVGs in `stats/` with live charts (same style of pipeline as dynamic profile repos).
-
----
-
-## Latest blog posts
-
-> This list is maintained automatically from **my** RSS feeds. Set repository variable **`BLOG_RSS_FEEDS`** (comma-separated feed URLs), then run **Actions → Latest blog post workflow**.
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## Coding time (WakaTime)
-
-> **My** coding time from WakaTime. Add repository secret **`WAKATIME_API_KEY`**, run **Actions → WakaTime readme stats**, and optionally uncomment the schedule in `.github/workflows/wakatime.yml` for daily updates.
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-## Contribution activity graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kamalsharma29&bg_color=1f2937&color=f8fafc&line=38bdf8&point=fbbf24&area=true&area_color=334155&hide_border=false" width="100%" alt="Contribution activity graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kamalsharma29&show_icons=true&include_all_commits=true&hide_border=false&bg_color=0c1210&title_color=34d399&icon_color=fbbf24&text_color=e7e5e4&border_color=134e4a" alt="GitHub stats for Kamalsharma29" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamalsharma29&layout=compact&hide_border=false&bg_color=0c1210&title_color=34d399&text_color=e7e5e4&border_color=134e4a" alt="Top languages for Kamalsharma29" />
 
 </div>
 
 ---
 
-## Contribution snake
+## Contribution Graph
 
 <div align="center">
+
+<img src="https://ghchart.rshah.org/10b981/Kamalsharma29" alt="Contribution graph for Kamalsharma29" width="100%" />
+
+</div>
+
+---
+
+## Contribution activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Kamalsharma29&hide_border=false&border_radius=0&border=134e4a&background=0c1210&stroke=134e4a&ring=10b981&fire=fbbf24&currStreakLabel=e7e5e4&sideLabels=a8a29e&currStreakNum=e7e5e4&sideNums=e7e5e4&dates=a8a29e" alt="GitHub contribution streak for Kamalsharma29" />
+
+</div>
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+Open to **full-stack** and **AI** roles, **CRM / dashboard** work, and **backend support**.
+
+Based in **Noida, India**.
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/my--portfolio--029.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-029.vercel.app/)
+[![Email](https://img.shields.io/badge/ks7430246@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ks7430246@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamalsharma29/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kamalsharma29)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kamalsharma_29/)
+
+<br/>
+
+---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kamalsharma29/Kamalsharma29/output/github-snake-dark.svg?v=20260505-2355" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kamalsharma29/Kamalsharma29/output/github-snake.svg?v=20260505-2355" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Kamalsharma29/Kamalsharma29/output/github-snake.svg?v=20260505-2355" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kamalsharma29/Kamalsharma29/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kamalsharma29/Kamalsharma29/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Kamalsharma29/Kamalsharma29/output/github-snake-dark.svg" width="100%" />
 </picture>
 
 <br/>
 
-<sub>If the image is missing, run <strong>Actions → Generate contribution snake</strong> once so the <code>output</code> branch is created.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c1210,100:10b981&height=120&section=footer&animation=twinkling" width="100%" alt="Footer banner" />
 
 </div>
-
----
-
-## Let's connect
-
-<div align="center">
-
-<br/>
-
-I'm open to **full-stack** and **AI** engineering roles, **CRM / dashboard** work, **contract development**, and **collaboration** on shipped products.  
-If you are hiring or building something ambitious — **let's talk.**
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-374151?style=for-the-badge&logo=vercel&logoColor=67e8f9)](https://my-portfolio-029.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-374151?style=for-the-badge&logo=linkedin&logoColor=a5f3fc)](https://www.linkedin.com/in/kamal-kumar-sharma-680b612227)
-[![GitHub](https://img.shields.io/badge/GitHub-374151?style=for-the-badge&logo=github&logoColor=86efac)](https://github.com/Kamalsharma29)
-[![Email](https://img.shields.io/badge/Email-374151?style=for-the-badge&logo=gmail&logoColor=fca5a5)](mailto:ks7430246@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-374151?style=for-the-badge&logo=leetcode&logoColor=fde047)](https://leetcode.com/kamalsharma_29/)
-
-<br/>
-
-[![X](https://img.shields.io/badge/Follow-374151?style=for-the-badge&logo=x&logoColor=e0f2fe)](https://twitter.com/KamalSh37980006)
-
-<br/>
-
-<sub>Open to <strong>contract-based work</strong> · <strong>remote / hybrid</strong> · based in <strong>Noida, India</strong></sub>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0284c7&height=120&section=footer" width="100%" alt="Footer wave" />
-
-</div>
-
----
-
-<div align="center">
-
-<sub>Profile README — <strong>Kamal Kumar Sharma</strong> (<strong>Kamalsharma29</strong>) · content, projects, and metrics are mine.</sub>
-
-</div>
-
-
-
-
-
-
