@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=34D399&center=true&vCenter=true&repeat=true&width=760&height=45&lines=Full-stack+%2B+AI+%E2%80%A2+React%2C+Next.js%2C+Node.js;CRM+dashboards+%E2%80%A2+Backend+support+%E2%80%A2+Noida;B.Tech+in+Computer+Science+and+Engineering" alt="Kamal Kumar Sharma role" />
+<img src="https://readme-typing-svg.demolab.com?size=21&duration=3000&pause=2000&color=34D399&center=true&vCenter=true&repeat=true&width=680&height=40&lines=Full-stack+%2B+AI+%E2%80%A2+React+%E2%80%A2+Next.js;CRM+dashboards+%E2%80%A2+Node.js+%E2%80%A2+Python;Software+Engineer+%E2%80%A2+Noida,+India" alt="Full-stack and AI developer" />
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Kamalsharma29&style=for-the-badge&color=059669&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FKamalsharma29&label=PROFILE%20VIEWS&labelColor=%23134e4a&countColor=%23059669&style=for-the-badge" alt="Profile views" />
 
 </div>
 
