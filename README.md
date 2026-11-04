@@ -10,7 +10,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/my--portfolio--029.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-029.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/my--portfolio--029.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kamalsharma-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamalsharma29/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kamalsharma29)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kamalsharma_29/)
